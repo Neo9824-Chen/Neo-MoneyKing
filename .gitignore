@@ -1,0 +1,4 @@
+# 网友部署后生成的依赖（不要提交）
+node_modules/
+.DS_Store
+*.log
